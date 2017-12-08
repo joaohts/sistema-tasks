@@ -103,20 +103,6 @@ require 'check.php';
     <a class="scroll-to-top rounded" href="#page-top">
       <i class="fa fa-angle-up"></i>
     </a>
-       <!-- Bootstrap core JavaScript-->
-    <script src="_cdn/jquery.js"></script>
-    <script src="_cdn/bootstrap.bundle.js"></script>
-    <!-- Core plugin JavaScript-->
-    <script src="_cdn/jquery.easing.js"></script>
-    <!-- Page level plugin JavaScript-->
-    <script src="_cdn/Chart.js"></script>
-    <script src="_cdn/jquery.dataTables.js"></script>
-    <script src="_cdn/dataTables.bootstrap4.js"></script>
-    <!-- Custom scripts for all pages-->
-    <script src="_cdn/sb-admin.js"></script>
-    <!-- Custom scripts for this page-->
-    <script src="_cdn/sb-admin-datatables.js"></script>
-    <script src="_cdn/sb-admin-charts.js"></script>
   </div>
 </body>
   
