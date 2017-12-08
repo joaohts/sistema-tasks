@@ -3,11 +3,10 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME','tasks');
+define('DB_NAME','desafio-voxus');
 
-//Define identidade do sistema
-define('SYSTEM_NAME', 'Sistema de Tasks');
-define('AUTHOR_NAME', 'João Victor Barreto');
+//Define nome da aplicacao
+define('SYSTEM_NAME', 'System of Tasks');
 
 // habilita todas as exibições de erros
 ini_set('display_errors', true);

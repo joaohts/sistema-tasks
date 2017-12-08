@@ -29,7 +29,7 @@ $users = $stmt->fetchAll(PDO::FETCH_ASSOC);
  
 if (count($users) <= 0)
 {
-    echo "Email ou senha incorretos";
+	echo  "<script>alert('Email ou senha incorretos');</script>";
     exit;
 }
  
